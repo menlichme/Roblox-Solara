@@ -9,7 +9,7 @@ Welcome to the **Roblox Solara** project! 🎮 This tool is here to enhance your
 - **Customizable**: Tailor the tool to your needs. ⚙️
 - **Regular Updates**: Stay up-to-date with new features! 🔄
 - **Community Support**: Connect with others for help and tips! 🤝
-- 
+
 ### Topics:
 - solara
 - roblox-script
