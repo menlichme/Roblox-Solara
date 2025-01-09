@@ -1,0 +1,208 @@
+.container {
+    background-color: black;
+}
+
+
+
+.header__box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    border: 2px solid #484848;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.header__logo span {
+    background-color: #9060E8;
+    color: black;
+    border-radius: 5px;
+}
+
+.header__logo p {
+    margin: 7px;
+    color: #9060E8;
+}
+
+.header__text {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header__text span {
+    margin-top: 52px;
+    font-size: 80px;
+}
+
+.header__text p {
+    margin-top: -27px;
+    font-size: 60px;
+    background: linear-gradient(180deg, #fff 45%, #9900FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.header__about {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 18px;
+    margin-top: -50px;
+    padding-bottom: 30px;
+}
+
+.header__about button {
+    padding: 13px;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.header__about button:hover {
+    color: white;
+    background-color: #949494;
+}
+
+.header__about a {
+    color: black;
+    text-decoration: none;
+}
+
+.header__img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__img img {
+    width: 800px;
+    border-radius: 10%;
+    box-shadow: 0px -40px 400px 10px #9900FF;
+    z-index: -1;
+}
+
+.header__btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.buttons a {
+    margin-top: 50px;
+    color: white;
+    border: 1px solid #797979;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.download {
+    display: flex;
+    text-align: center;
+    margin-right: 50px;
+    padding: 15px;
+}
+
+.github {
+    padding: 15px;
+    width: 100px;
+}
+
+.github, .download, .download1, .github1 {
+    cursor: pointer;
+    transition: 0.7s;
+}
+
+.github:hover, .download:hover, .download1:hover, .github1:hover {
+    background-color: #9900FF;
+}
+
+hr {
+    margin-top: 50px;
+    border: 2px dashed #9060E8;
+}
+
+.main__container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.main__container h1 {
+    font-size: 50px;
+    text-align: center;
+    background: linear-gradient(180deg, #fff 45%, #9900FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footer__container {
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__Instruction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer__Instruction h1 {
+    font-size: 50px;
+    background: linear-gradient(180deg, #fff 45%, #9900FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.download1 {
+    padding: 15px;
+    margin-right: 50px;
+}
+
+.github1 {
+    padding: 15px;
+    width: 100px;
+}
+
+.footer__circle {
+    padding-top: 150px;
+    display: flex;
+    width: 25px;
+    justify-content: flex-end;
+    text-align: right;
+    opacity: 60%;
+    margin-left: auto;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 20px;
+    box-shadow: -20px 0px 400px 280px #9900FF;
+}
